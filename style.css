@@ -1,0 +1,36 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.TicHeader {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#msg {
+  
+    margin-top: 30px;
+}
+table{
+    display: grid;
+    margin-top: 40px;
+
+}
+
+.colons{
+    background-color: rgb(126, 110, 87);
+    border: solid black 1px;
+    text-align: center;
+    font-size: 100px;
+    max-height: 150px;
+    max-width: 150px;
+}
+
+
+.result {
+  
+    margin-top: 150px;
+    font-size: 20px;
+}
